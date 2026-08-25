@@ -13,6 +13,6 @@ Las tecnologías que se usarán para desarrollar este proyecto son
 - **JavaScript (tal vez):** Dependiendo de que ideas plantee durante el desarrollo podría agregar algo de lógica de JavaScript.
 
 **DISEÑO:**
-![[diseño_ui.png|490]]
+![diseño de la app](https://lh3.googleusercontent.com/d/1bzxYU9doV8amS3n20Wsd_BGZMyCF2rby)
 
 **WEB FINAL:**
