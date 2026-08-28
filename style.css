@@ -138,9 +138,14 @@ p {
     body {
         height: auto;
     }
+
+    h1 {
+        text-align: center;
+    }
     
     #card {
         height: fit-content;
+        max-width: 400px;
         grid-template-columns: 1fr;
         grid-template-rows: auto;
     }
