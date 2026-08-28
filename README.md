@@ -16,3 +16,4 @@ Las tecnologías que se usarán para desarrollar este proyecto son
 ![diseño de la app](https://lh3.googleusercontent.com/d/1bzxYU9doV8amS3n20Wsd_BGZMyCF2rby)
 
 **WEB FINAL:**
+![diseño de la app](https://lh3.googleusercontent.com/d/1DG2gn0rJ6YFDxREkKLlKnPyvLny6MQ1h)
