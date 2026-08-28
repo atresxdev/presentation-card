@@ -160,4 +160,10 @@ p {
     #firma {
         grid-row: 5/6;
     }
+
+    #discord {
+        right: 0;
+        top: 100px;
+        border-radius: 10px 0 0 10px;
+    }
 }
