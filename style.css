@@ -19,6 +19,7 @@ body {
 }
 
 #card {
+    position: relative;
     max-width: 720px;
     height: 400px;
     background: #000;
@@ -116,4 +117,18 @@ p {
         height: 100%;
         object-fit: contain;
     }
+}
+
+#discord {
+    border: solid;
+    border-radius: 0 10px 10px 0;
+    padding: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 10px;
+    right: -50px;
+
 }
