@@ -132,3 +132,32 @@ p {
     right: -50px;
 
 }
+
+
+@media screen and (width <= 800px) {
+    body {
+        height: auto;
+    }
+    
+    #card {
+        height: fit-content;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+    }
+
+    #foto {
+        grid-row: 2/3;
+    }
+
+    #descripcion {
+        grid-row: 3/4;
+    }
+
+    #redes {
+        grid-row: 4/5;
+    }
+
+    #firma {
+        grid-row: 5/6;
+    }
+}
