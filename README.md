@@ -1,6 +1,8 @@
 # TARJETA DE PRESENTACION (ART)
 Tarjeta de presentación para la cuenta ATRESxART
 
+## VERSION 1
+
 **REQUISITOS:**
 - Foto de perfil.
 - Un poco de información sobre mi.
@@ -17,3 +19,12 @@ Las tecnologías que se usarán para desarrollar este proyecto son
 
 **WEB FINAL:**
 ![diseño de la app](https://lh3.googleusercontent.com/d/1DG2gn0rJ6YFDxREkKLlKnPyvLny6MQ1h)
+
+## VERSION 2
+
+**REQUISITOS:**
+- Algo en el fondo
+- Efecto de brillo en la tarjeta.
+- El ojo sigue el mouse.
+- Puntero personalizado.
+- Un pato.
